@@ -25,9 +25,6 @@ A simple desktop-based Java application to manage student results. Built using J
 - MySQL Server
 - Eclipse IDE (optional for source code viewing)
 
-### Database Setup
 
-1. Install MySQL and create a new database.
-2. Run the following SQL command to create the necessary table:
 
 
